@@ -1,0 +1,6 @@
+{
+  "name": "MysteryMind AI",
+  "description": "An interactive fictional detective game powered by Gemini AI with suspect interrogations, clue discovery, and mystery solving in dark navy and purple aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
